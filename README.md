@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning backend development.
+- 🌱 I’m currently learning DSA concepts on JAVA.
 - 👯 I’m looking to collaborate on MERN.
 - 📫 How to reach me: https://www.linkedin.com/in/ronak-gour-5685ab224
 - 😄 Pronouns: He / Him.
